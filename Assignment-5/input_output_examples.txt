@@ -1,0 +1,34 @@
+Problem 1:
+
+Sum of integers: 100
+
+
+Problem 2:
+
+Student object serialized successfully.
+Deserialized Student: Student{name='Ritesh', age=21, course='Computer Science'}
+
+
+Problem 3:
+
+Menu:
+1. Add Employee
+2. Display All Employees
+3. Exit
+Enter choice: 1
+Enter Name: RITESH
+Enter Employee ID: 22
+Enter Designation: CEOO 
+Enter Salary: 500000
+Employee added successfully!
+
+Menu:
+1. Add Employee
+2. Display All Employees
+3. Exit
+Enter choice: 2
+Employee ID: 22
+Name: RITESH
+Designation: CEO
+Salary: 500000.0
+
